@@ -27,5 +27,5 @@ Create a web application to calculate the total cost of a pizza order and review
 
 ## Nice to Have (Optional)
 
-[ ] Unit tests in the backend.
-[ ] Web app deployed and accessible via a public URL.
+- [ ] Unit tests in the backend.
+- [ ] Web app deployed and accessible via a public URL.
