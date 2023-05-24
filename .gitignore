@@ -1,0 +1,9 @@
+# dotnet core
+bin/
+obj/
+project.lock.json
+NuGetScratch/
+
+api/wwwroot/**
+!api/wwwroot/scratch.html
+!api/wwwroot/favicon.ico
