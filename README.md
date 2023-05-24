@@ -7,11 +7,11 @@ Create a web application to calculate the total cost of a pizza order and review
 
 ## Functional Requirements
 
-[ ] Allow users to select the size and toppings for their pizza order.
-[ ] Calculate the total cost of the order based on the size and toppings selected.
-[ ] Display the total cost of the order to the user.
-[ ] Enable users to save orders.
-[ ] Provide a view of all saved orders in a list on a separate page.
+- [ ] Allow users to select the size and toppings for their pizza order.
+- [ ] Calculate the total cost of the order based on the size and toppings selected.
+- [ ] Display the total cost of the order to the user.
+- [ ] Enable users to save orders.
+- [ ] Provide a view of all saved orders in a list on a separate page.
 
 ## Calculation Rules
 
