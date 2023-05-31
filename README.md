@@ -7,11 +7,11 @@ Create a web application to calculate the total cost of a pizza order and review
 
 ## Functional Requirements
 
-- [ ] Allow users to select the size and toppings for their pizza order.
-- [ ] Calculate the total cost of the order based on the size and toppings selected.
-- [ ] Display the total cost of the order to the user.
-- [ ] Enable users to save orders.
-- [ ] Provide a view of all saved orders in a list on a separate page.
+- [x] Allow users to select the size and toppings for their pizza order.
+- [x] Calculate the total cost of the order based on the size and toppings selected.
+- [x] Display the total cost of the order to the user.
+- [x] Enable users to save orders.
+- [x] Provide a view of all saved orders in a list on a separate page.
 
 ## Calculation Rules
 
@@ -27,5 +27,6 @@ Create a web application to calculate the total cost of a pizza order and review
 
 ## Nice to Have (Optional)
 
-- [ ] Unit tests in the backend.
-- [ ] Web app deployed and accessible via a public URL.
+- [x] Unit tests in the backend.
+- [x] Web app deployed and accessible via a <a href="https://pizza-order-system.azurewebsites.net/" target="_blank">public URL</a>.
+

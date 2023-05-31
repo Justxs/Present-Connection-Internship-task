@@ -4,6 +4,7 @@ obj/
 project.lock.json
 NuGetScratch/
 .vs
+PizzaOrderSystemBackEnd/PizzaOrderSystemBackEnd/Properties
 
 api/wwwroot/**
 !api/wwwroot/scratch.html
