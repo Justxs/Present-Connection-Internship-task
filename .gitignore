@@ -3,6 +3,7 @@ bin/
 obj/
 project.lock.json
 NuGetScratch/
+.vs
 
 api/wwwroot/**
 !api/wwwroot/scratch.html

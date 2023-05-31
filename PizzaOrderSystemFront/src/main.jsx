@@ -4,18 +4,18 @@ import App from './App.jsx'
 import Navbar from './components/Navbar.jsx'
 import { BrowserRouter } from 'react-router-dom'
 import Footer from './components/Footer.jsx'
-import { Box, Container } from '@mui/material';
+import { Container } from '@mui/material';
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
-      <Navbar/>
-      <Box>
-        <Container align="center" sx={{my:10}}>
-          <App />
-        </Container>
-      </Box>
+    <Navbar/>
+    <Container align="center" sx={{my:2, minHeight:'100vh'}}>
+      <App />
+    </Container>
+    
+    <Footer />
 
-      <Footer />
     </BrowserRouter>
   </React.StrictMode>,
 )
