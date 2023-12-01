@@ -28,5 +28,4 @@ Create a web application to calculate the total cost of a pizza order and review
 ## Nice to Have (Optional)
 
 - [x] Unit tests in the backend.
-- [x] Web app deployed and accessible via a <a href="https://pizza-order-system.azurewebsites.net/" target="_blank">public URL</a>.
-
+- [x] Web app was deployed. Currently it is offline.
